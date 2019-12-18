@@ -1,56 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8901b08d-44c6-4c9a-9763-58b1ad42f119" name="Default Changelist" comment="资金账户微服务">
-      <change afterPath="$PROJECT_DIR$/.idea/goRed.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/account.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/._.DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/run.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/after-shuffle.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/before-shuflle.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/double-average.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/double-random.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brun/test/simple-rand.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_log.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account_log.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/domains.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/po_account.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/po_account_log.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/accounts/service_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/account.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/over_test.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/red-envelope.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/red-sql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/sql.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/update.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goRed.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/account.2019121809.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/accounts.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/accounts_consts.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testx/init.go" afterDir="false" />
+    <list default="true" id="8901b08d-44c6-4c9a-9763-58b1ad42f119" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

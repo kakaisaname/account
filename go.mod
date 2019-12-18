@@ -1,4 +1,4 @@
-module account
+module github.com/kakaisaname/account
 
 go 1.12
 
