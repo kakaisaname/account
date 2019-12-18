@@ -1,8 +1,8 @@
 package accounts
 
 import (
-	"account/services"
-	_ "account/testx"
+	"github.com/kakaisaname/account/services"
+	_ "github.com/kakaisaname/account/testx"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	. "github.com/smartystreets/goconvey/convey"

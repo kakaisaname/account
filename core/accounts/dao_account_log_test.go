@@ -1,7 +1,7 @@
 package accounts
 
 import (
-	"account/services"
+	"github.com/kakaisaname/account/services"
 	"github.com/kakaisaname/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"

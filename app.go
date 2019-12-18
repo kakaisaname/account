@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "account/apis/web"
-	_ "account/core/accounts"
+	_ "github.com/kakaisaname/account/apis/web"
+	_ "github.com/kakaisaname/account/core/accounts"
 	"github.com/kakaisaname/infra"
 	"github.com/kakaisaname/infra/base"
 )

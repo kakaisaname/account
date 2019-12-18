@@ -1,7 +1,7 @@
 package accounts
 
 import (
-	"account/services"
+	"github.com/kakaisaname/account/services"
 	"github.com/shopspring/decimal"
 	"time"
 )

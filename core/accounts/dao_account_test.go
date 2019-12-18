@@ -1,8 +1,8 @@
 package accounts
 
 import (
-	_ "account/testx"
 	"database/sql"
+	_ "github.com/kakaisaname/account/testx"
 	"github.com/kakaisaname/infra/base"
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"

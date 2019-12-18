@@ -1,7 +1,7 @@
 package web
 
 import (
-	"account/services"
+	"github.com/kakaisaname/account/services"
 	"github.com/kakaisaname/infra"
 	"github.com/kakaisaname/infra/base"
 	"github.com/kataras/iris"

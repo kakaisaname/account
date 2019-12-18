@@ -3,8 +3,8 @@
 package accounts
 
 import (
-	"account/services"
 	"fmt"
+	"github.com/kakaisaname/account/services"
 	"github.com/kakaisaname/infra/base"
 	"github.com/kataras/iris/core/errors"
 	"github.com/shopspring/decimal"

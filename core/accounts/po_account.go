@@ -1,8 +1,8 @@
 package accounts
 
 import (
-	"account/services"
 	"database/sql"
+	"github.com/kakaisaname/account/services"
 	"github.com/shopspring/decimal"
 	"time"
 )
