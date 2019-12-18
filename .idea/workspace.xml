@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8901b08d-44c6-4c9a-9763-58b1ad42f119" name="Default Changelist" comment="资金账户微服务">
+      <change afterPath="$PROJECT_DIR$/.idea/goRed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/account.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apis/web/account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/after-shuffle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/before-shuflle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/double-average.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/double-random.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brun/test/simple-rand.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_log_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/dao_account_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account_log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/domain_account_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/domains.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/po_account.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/po_account_log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/accounts/service_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/account.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/init.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/over_test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/red-envelope.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/red-sql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/sql.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/update.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goRed.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/account.2019121809.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/accounts.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/accounts_consts.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testx/init.go" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="goRed" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\go\goinstall" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1UVV890ujTYy4ngNKcHeTJRJ8BS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\goRed\example\eruka" />
+      <recent name="E:\goRed\example\rpcClient" />
+      <recent name="E:\goRed\example\mysql" />
+      <recent name="E:\goRed\core\accounts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build account">
+    <configuration name="go build account" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goRed" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="account" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build account/brun" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goRed" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/brun/main.go" />
+      <package value="account/brun" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goRed" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goRed" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="goRed" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build goRed/example/eruka" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goRed" />
+      <working_directory value="$PROJECT_DIR$/example/eruka" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example/eruka/ec.go" />
+      <package value="goRed/example/eruka" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test envelopes" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="goRed" />
+      <working_directory value="$PROJECT_DIR$/core/envelopes" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="goRed" />
+      <directory value="$PROJECT_DIR$/core/envelopes" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build goRed" />
+      <item itemvalue="Go Build.go build goRed/example/eruka" />
+      <item itemvalue="Go Test.go test envelopes" />
+      <item itemvalue="Go Build.go build account/brun" />
+      <item itemvalue="Go Build.go build account" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build account" />
+        <item itemvalue="Go Build.go build account/brun" />
+        <item itemvalue="Go Test.go test envelopes" />
+        <item itemvalue="Go Build.go build goRed" />
+        <item itemvalue="Go Build.go build goRed/example/eruka" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="资金账户微服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="资金账户微服务" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
