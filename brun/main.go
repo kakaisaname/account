@@ -4,8 +4,8 @@ import (
 	"github.com/kakaisaname/infra"
 	"github.com/kakaisaname/infra/base"
 	//_ "account/resk"
-	"github.com/tietang/props/ini"
-	"github.com/tietang/props/kvs"
+	"github.com/kakaisaname/props/ini"
+	"github.com/kakaisaname/props/kvs"
 )
 
 func main() {
